@@ -1,3 +1,16 @@
 <resources>
+    <string name="Clear">Clear</string>
     <string name="app_name">First Project</string>
+    <string name="BtnPlus">+</string>
+    <string name="BtnMinus">-</string>
+    <string name="Num1">Первое число</string>
+    <string name="Num2">Второе число</string>
+    <string name="Result">Ответ</string>
+    <string name="City_name">Type city name</string>
+    <string name="name">KUDASAI</string>
+    <string name="who">Когда ты уже зайдешь?</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget">Забыли пароль?</string>
+    <string name="welcome">Войти</string>
 </resources>
