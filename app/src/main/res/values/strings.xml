@@ -13,4 +13,5 @@
     <string name="login">Login</string>
     <string name="forget">Забыли пароль?</string>
     <string name="welcome">Войти</string>
+    <string name="title_activity_login_in_app">Login_in_app</string>
 </resources>
